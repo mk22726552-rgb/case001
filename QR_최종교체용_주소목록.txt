@@ -1,0 +1,7 @@
+QR 01 = [PUBLIC_URL]/record01.html
+QR 02 = [PUBLIC_URL]/record02.html
+QR 03 = [PUBLIC_URL]/record03.html
+QR 04 = [PUBLIC_URL]/record04.html
+QR 05 = [PUBLIC_URL]/record05.html
+QR 06 = [PUBLIC_URL]/record06.html
+QR 07 = [PUBLIC_URL]/record07.html
